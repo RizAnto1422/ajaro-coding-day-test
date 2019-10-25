@@ -1,0 +1,77 @@
+.warna-biru{
+    background-color: #2699FB;
+}
+.text-biru{
+    color: #2699FB;
+}
+.text-biru::-webkit-input-placeholder{
+	color: #C5E5FD;
+}
+.background{
+    background-color: #F1F9FF;
+}
+.fontnya{
+    font-family: Arial;
+}
+
+.text-judul{
+    font-family: 'Noto Serif', serif;
+}
+.margin-modal{
+    margin-left: 50px;
+}
+.kotak-isi{
+    width: 17em;
+    margin-bottom: 10px;
+}
+
+.input-khusus{
+    width: 15em;
+    height: 38px;
+    border-radius: 5px;
+}
+.kotak-beda{
+    width: 10em;
+}
+.kotak-idnya{
+    width: 40px;
+    height: 35px;
+    margin-top: -25px;
+}
+.kotak-isi-id{
+    width: 150px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.ket-nya{
+    margin-top: 10px;
+    margin-right: 50px;
+    width: 40px;
+}
+.hapus-ya{
+    width: 65px;
+}
+.id-hapus{
+    width: 40px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.marginbutton{
+    margin-right: 5em;
+}
+.text-hapus{
+    margin-left: 40px;
+}
+.pilihan{
+    width: 10em;   
+}
+.awal-kelas{
+    color: rgb(10, 141, 255);
+    font-weight: bold;
+}
+.btn-tambah{
+    height: 3em;
+    margin-top: 12px;
+
+}
